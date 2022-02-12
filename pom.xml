@@ -9,7 +9,7 @@
 
   <groupId>org.bedework.deploy</groupId>
   <artifactId>bw-quickstart</artifactId>
-  <version>4.0.0-SNAPSHOT</version>
+  <version>4.0.0</version>
   <packaging>pom</packaging>
 
   <name>Bedework: Components for quickstart/demo</name>
@@ -18,6 +18,7 @@
 
   <modules>
     <module>bw-apacheds</module>
+    <module>bw-calendar-data-h2</module>
     <module>bw-opensearch-qs</module>
     <module>bw-opensearch-GeoLite2-City</module>
     <module>bw-oschdata</module>

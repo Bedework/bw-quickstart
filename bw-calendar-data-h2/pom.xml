@@ -10,7 +10,7 @@
     <version>4.0.0</version>
   </parent>
 
-  <artifactId>bw-opensearch-GeoLite2-City</artifactId>
+  <artifactId>bw-calendar-data-h2</artifactId>
   <packaging>pom</packaging>
 
   <build>
