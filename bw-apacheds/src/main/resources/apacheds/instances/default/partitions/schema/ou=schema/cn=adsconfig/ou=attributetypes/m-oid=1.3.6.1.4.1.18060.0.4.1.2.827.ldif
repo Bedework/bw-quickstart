@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.827,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20220108034249.022000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+m-ordering: integerOrderingMatch
+entryUUID: 46d379df-419c-43e3-8c33-6151b679432d
+m-equality: integerMatch
+m-description: time interval between two refreshOnly sessions
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.827
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.790Z
+m-name: ads-replRefreshInterval
+entryParentId: 34360d6a-e192-4373-ab8f-30a41315d782

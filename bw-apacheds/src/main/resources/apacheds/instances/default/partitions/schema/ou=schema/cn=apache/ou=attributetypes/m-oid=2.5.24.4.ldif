@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.5.24.4,ou=attributeTypes,cn=apache,ou=schema
+entryCSN: 20220108034249.191000Z#000000#000#000000
+m-usage: DIRECTORY_OPERATION
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.1
+m-singlevalue: FALSE
+entryUUID: 72229e20-0444-4c73-a25e-4767e21bdafa
+m-equality: directoryStringFirstComponentMatch
+m-description: Access control information that applies to a set of entries
+m-obsolete: FALSE
+m-oid: 2.5.24.4
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.833Z
+m-name: prescriptiveACI
+entryParentId: 85acdeeb-f170-4ec1-ada9-4a9a10d3e63d

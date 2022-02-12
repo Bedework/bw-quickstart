@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.3.161,ou=objectClasses,cn=adsconfig,ou=schema
+m-may: ads-indexFileName
+m-may: ads-indexWorkingDir
+m-may: ads-indexNumDupLimit
+m-may: ads-indexCacheSize
+entryCSN: 20220108034248.952000Z#000001#000#000000
+m-supobjectclass: ads-index
+m-description: A JDBM indexed attribute
+m-oid: 1.3.6.1.4.1.18060.0.4.1.3.161
+objectclass: top
+objectclass: metaTop
+objectclass: metaObjectClass
+createTimestamp: 20220108034249.796Z
+m-name: ads-jdbmIndex
+creatorsname: uid=admin,ou=system
+entryUUID: 9ffb4e97-7c6c-415c-8a51-2f14086c4b81
+entryParentId: 1b6f01cc-9934-4957-9502-9ca9a2f01dd6

@@ -1,0 +1,15 @@
+dn: ads-interceptorId=keyDerivationInterceptor,ou=interceptors,ads-directoryServ
+ iceId=default,ou=config
+entrycsn: 20220108031324.701000Z#000000#000#000000
+objectclass: ads-interceptor
+objectclass: top
+objectclass: ads-base
+createTimestamp: 20220108034248.144Z
+creatorsName: uid=admin,ou=system
+ads-enabled: FALSE
+entryuuid: 9200fb26-df00-46d0-842d-1fd8704f2c86
+ads-interceptorclassname: org.apache.directory.server.core.kerberos.KeyDerivatio
+ nInterceptor
+ads-interceptororder: 8
+ads-interceptorid: keyDerivationInterceptor
+entryParentId: e8ac31ff-0933-4673-a8e4-ad7cb463531a

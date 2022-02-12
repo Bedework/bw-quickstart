@@ -1,0 +1,10 @@
+version: 1
+dn: ou=objectClasses,cn=samba,ou=schema
+entryCSN: 20220108034249.220000Z#000000#000#000000
+ou: objectclasses
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20220108034249.479Z
+creatorsname: uid=admin,ou=system
+entryUUID: 5874418a-5091-4fee-bc0f-634c99367fe7
+entryParentId: cd7f439f-5213-4166-a1f6-6126fd31b326

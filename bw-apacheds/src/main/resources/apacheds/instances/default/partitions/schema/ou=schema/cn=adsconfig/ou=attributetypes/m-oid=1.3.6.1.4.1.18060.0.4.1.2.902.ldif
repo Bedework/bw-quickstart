@@ -1,0 +1,16 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.902,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20220108034249.012000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+entryUUID: 9ef79ce3-4a0c-4a5c-8b6a-3c71b5af73cf
+m-equality: integerMatch
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.902
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20220108034250.081Z
+m-name: ads-pwdMaxAge
+entryParentId: 34360d6a-e192-4373-ab8f-30a41315d782

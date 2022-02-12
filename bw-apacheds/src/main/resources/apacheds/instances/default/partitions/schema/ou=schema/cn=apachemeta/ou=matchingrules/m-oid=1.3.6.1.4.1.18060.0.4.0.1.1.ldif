@@ -1,0 +1,16 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.0.1.1,ou=matchingRules,cn=apachemeta,ou=schema
+entryCSN: 20220108034248.537000Z#000000#000#000000
+m-description: objectClassTypeMatch: for mathing AUXILIARY, STRUCTURAL, ABSTRACT
+ 
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.0.1.1
+objectclass: metaMatchingRule
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.974Z
+m-name: objectClassTypeMatch
+creatorsname: uid=admin,ou=system
+m-syntax: 1.3.6.1.4.1.18060.0.4.0.0.1
+entryUUID: 6961485c-b330-4e6a-a528-adbcfa5f40c8
+entryParentId: 46e75433-d0a0-4fb0-9641-018ae4990e14

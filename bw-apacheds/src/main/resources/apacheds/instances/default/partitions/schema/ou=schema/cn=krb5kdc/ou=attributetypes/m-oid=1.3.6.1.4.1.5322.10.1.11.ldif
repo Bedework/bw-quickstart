@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.5322.10.1.11,ou=attributeTypes,cn=krb5kdc,ou=schema
+entryCSN: 20220108034248.686000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+creatorsname: uid=admin,ou=system
+m-collective: FALSE
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.12
+m-singlevalue: FALSE
+entryUUID: d4ec9fa5-33d8-4f7a-91d3-3804e0b130d6
+m-supattributetype: distinguishedName
+m-equality: distinguishedNameMatch
+m-description: Distinguished name of krb5Realm entry
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.5322.10.1.11
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.579Z
+m-name: krb5PrincipalRealm
+entryParentId: cb7e21a8-5d4f-41af-a9ee-e26806366b6a

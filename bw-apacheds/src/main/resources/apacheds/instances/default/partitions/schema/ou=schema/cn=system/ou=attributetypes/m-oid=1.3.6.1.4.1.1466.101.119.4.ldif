@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.1466.101.119.4,ou=attributeTypes,cn=system,ou=schema
+entryCSN: 20220108034248.766000Z#000000#000#000000
+m-usage: DSA_OPERATION
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: TRUE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.12
+m-singlevalue: FALSE
+entryUUID: 4e70d20b-b9cd-4bca-b924-b2a6e84a61ce
+m-description: RFC2589: dynamic subtrees
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.1466.101.119.4
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.930Z
+m-name: dynamicSubtrees
+entryParentId: 242bea3c-60f9-4303-859e-a665b8b65762

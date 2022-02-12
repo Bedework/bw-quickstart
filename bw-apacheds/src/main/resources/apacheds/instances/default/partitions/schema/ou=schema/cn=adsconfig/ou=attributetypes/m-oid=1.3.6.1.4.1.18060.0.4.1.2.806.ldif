@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.806,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20220108034249.013000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.7
+m-singlevalue: TRUE
+entryUUID: a2f579d0-39bd-4192-9760-a0119b916765
+m-equality: booleanMatch
+m-description: directs a partition to synchronize the underlying storage upon a 
+ write operation
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.806
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20220108034249.725Z
+m-name: ads-partitionSyncOnWrite
+entryParentId: 34360d6a-e192-4373-ab8f-30a41315d782

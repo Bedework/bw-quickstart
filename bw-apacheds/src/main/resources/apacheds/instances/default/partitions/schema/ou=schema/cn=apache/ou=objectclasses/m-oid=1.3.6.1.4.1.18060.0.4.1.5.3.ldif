@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.5.3,ou=objectClasses,cn=apache,ou=schema
+entryCSN: 20220108034249.160000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 390ad650-0a64-4676-81b1-3bd3098c7895
+m-typeobjectclass: ABSTRACT
+m-supobjectclass: top
+m-must: storedProcLangId
+m-must: storedProcUnitName
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.1.5.3
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034250.105Z
+m-name: storedProcUnit
+entryParentId: 5218b470-859b-49d8-a6ab-3727039b27a9

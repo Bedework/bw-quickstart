@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.16.840.1.113719.1.203.4.12,ou=attributeTypes,cn=dhcp,ou=schema
+entryCSN: 20220108034248.665000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.12
+m-singlevalue: FALSE
+entryUUID: 5514b422-136f-4538-942c-0d2745b8641a
+m-equality: distinguishedNameMatch
+m-description: The distinguished name(s)   of the groups.
+m-obsolete: FALSE
+m-oid: 2.16.840.1.113719.1.203.4.12
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.469Z
+m-name: dhcpGroupDN
+entryParentId: 08ca0a74-8378-427b-9fbe-3a6766104aac

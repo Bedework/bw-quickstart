@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.7165.2.1.66,ou=attributeTypes,cn=samba,ou=schema
+entryCSN: 20220108034249.257000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+entryUUID: 3cfdfc49-c631-424e-807b-d7c3a32c0b2a
+m-equality: integerMatch
+m-description: Disconnect Users outside logon hours (default: -1 => off, 0 => on
+ )
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.7165.2.1.66
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20220108034249.693Z
+m-name: sambaForceLogoff
+entryParentId: d991772e-02db-46f9-8515-043da45cd704

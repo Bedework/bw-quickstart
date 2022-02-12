@@ -1,0 +1,10 @@
+version: 1
+dn: ou=nameForms,cn=autofs,ou=schema
+entryCSN: 20220108034248.554000Z#000000#000#000000
+ou: nameforms
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20220108034250.067Z
+creatorsname: uid=admin,ou=system
+entryUUID: eb639fdb-f2b4-46b8-8263-53b736c8b3a7
+entryParentId: d6aa77fc-339b-4635-b70c-558f46ebd7c8

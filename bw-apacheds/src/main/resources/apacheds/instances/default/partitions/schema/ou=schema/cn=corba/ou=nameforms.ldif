@@ -1,0 +1,10 @@
+version: 1
+dn: ou=nameForms,cn=corba,ou=schema
+entryCSN: 20220108034249.211000Z#000001#000#000000
+ou: nameforms
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20220108034249.647Z
+creatorsname: uid=admin,ou=system
+entryUUID: fe0160ed-3e30-47b4-89d4-b3bf358c73e7
+entryParentId: 5167bf04-abda-4e2b-90c0-1754f29833d2

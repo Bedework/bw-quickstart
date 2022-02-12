@@ -1,0 +1,16 @@
+dn: ads-transportId=tcp,ou=transports,ads-serverId=changePasswordServer,ou=serve
+ rs,ads-directoryServiceId=default,ou=config
+entrycsn: 20220108031324.500000Z#000000#000#000000
+ads-transportid: tcp
+objectclass: top
+objectclass: ads-base
+objectclass: ads-transport
+objectclass: ads-tcpTransport
+createTimestamp: 20220108034248.199Z
+ads-systemport: 60464
+ads-transportaddress: 0.0.0.0
+creatorsName: uid=admin,ou=system
+ads-enabled: TRUE
+entryuuid: 2c3990d5-2fd6-49df-b141-7fa0c7538be5
+ads-transportnbthreads: 2
+entryParentId: 4f52dba1-1c40-40fd-aff0-974dacf5681f

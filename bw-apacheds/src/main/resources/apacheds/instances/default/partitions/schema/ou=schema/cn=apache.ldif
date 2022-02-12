@@ -1,0 +1,12 @@
+version: 1
+dn: cn=apache,ou=schema
+entryCSN: 20220108034248.446000Z#000001#000#000000
+cn: apache
+objectclass: metaSchema
+objectclass: top
+createTimestamp: 20220108034250.066Z
+m-dependencies: system
+m-dependencies: core
+creatorsname: uid=admin,ou=system
+entryUUID: 3503c393-e254-4651-92ef-b912b07b6753
+entryParentId: ff8f3a16-246a-488c-a5a7-0b4dbce9f7c0

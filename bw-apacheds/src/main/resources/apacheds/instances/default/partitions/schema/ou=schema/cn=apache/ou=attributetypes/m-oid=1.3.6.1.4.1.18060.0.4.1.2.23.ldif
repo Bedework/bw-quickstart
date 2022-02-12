@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.23,ou=attributeTypes,cn=apache,ou=schema
+entryCSN: 20220108034249.197000Z#000002#000#000000
+m-usage: USER_APPLICATIONS
+creatorsname: uid=admin,ou=system
+m-collective: FALSE
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.12
+m-singlevalue: FALSE
+entryUUID: 87ba9516-98b4-4e6a-9e4d-b627513c050c
+m-supattributetype: distinguishedName
+m-equality: distinguishedNameMatch
+m-description: The default search context for the Ldap Class Loader
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.23
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.802Z
+m-name: classLoaderDefaultSearchContext
+entryParentId: 85acdeeb-f170-4ec1-ada9-4a9a10d3e63d

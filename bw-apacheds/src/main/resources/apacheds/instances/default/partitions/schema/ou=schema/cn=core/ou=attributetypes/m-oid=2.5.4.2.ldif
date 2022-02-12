@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.5.4.2,ou=attributeTypes,cn=core,ou=schema
+entryCSN: 20220108034249.119000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+m-singlevalue: FALSE
+entryUUID: d1fe255e-eaea-43b1-a4c8-412c8cef06ee
+m-equality: caseIgnoreMatch
+m-description: RFC2256: knowledge information
+m-obsolete: FALSE
+m-oid: 2.5.4.2
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.564Z
+m-name: knowledgeInformation
+entryParentId: 1fac5c0f-c1ff-43b9-9001-f06c0c2bd56f

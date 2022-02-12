@@ -1,0 +1,14 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.1466.115.121.1.17,ou=syntaxes,cn=system,ou=schema
+entrycsn: 20100111202214.878000Z#000000#000#000000
+m-description: DIT Structure Rule Description
+m-obsolete: FALSE
+objectclass: top
+objectclass: metaTop
+objectclass: metaSyntax
+m-oid: 1.3.6.1.4.1.1466.115.121.1.17
+createtimestamp: 20100111145217Z
+creatorsname: uid=admin,ou=system
+x-not-human-readable: FALSE
+entryUUID: 2525f8ad-c3d1-46df-b6fb-f8825f2a1f19
+entryParentId: 614a25b1-26f4-44b8-b5f3-f9a9c4f75d17

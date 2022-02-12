@@ -1,0 +1,14 @@
+dn: ads-indexAttributeId=krb5PrincipalName,ou=indexes,ads-partitionId=bedework,o
+ u=partitions,ads-directoryServiceId=default,ou=config
+ads-indexhasreverse: FALSE
+entrycsn: 20220108031325.059000Z#000000#000#000000
+objectclass: ads-index
+objectclass: top
+objectclass: ads-jdbmIndex
+objectclass: ads-base
+createTimestamp: 20220108034248.176Z
+creatorsName: uid=admin,ou=system
+ads-indexattributeid: krb5PrincipalName
+ads-enabled: TRUE
+entryuuid: 6deed1f1-8dd7-48b4-a56b-7c73ce9cc7a5
+entryParentId: 39fd203e-101b-4ea2-bfc6-560c6d4b0ee5

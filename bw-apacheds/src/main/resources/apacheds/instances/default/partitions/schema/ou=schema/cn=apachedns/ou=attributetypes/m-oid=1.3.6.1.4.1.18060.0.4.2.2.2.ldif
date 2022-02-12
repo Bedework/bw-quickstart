@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.2.2.2,ou=attributeTypes,cn=apachedns,ou=schema
+entryCSN: 20220108034248.931000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+entryUUID: ec528e57-a0bc-4342-8dcd-cde10eac2559
+m-equality: integerMatch
+m-description: An integer denoting time to live
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.2.2.2
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.776Z
+m-name: apacheDnsTtl
+entryParentId: f3d7caae-785a-4ed1-bc2a-a42fc8009794

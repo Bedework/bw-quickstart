@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.42.2.27.4.2.7,ou=objectClasses,cn=java,ou=schema
+entryCSN: 20220108034248.696000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 4527e482-4083-4da6-8b50-eb635a6380eb
+m-may: javaReferenceAddress
+m-may: javaFactory
+m-typeobjectclass: AUXILIARY
+m-supobjectclass: javaObject
+m-description: JNDI reference
+m-oid: 1.3.6.1.4.1.42.2.27.4.2.7
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.632Z
+m-name: javaNamingReference
+entryParentId: dc944372-1b5f-4d11-9230-c5ebd423b7ca

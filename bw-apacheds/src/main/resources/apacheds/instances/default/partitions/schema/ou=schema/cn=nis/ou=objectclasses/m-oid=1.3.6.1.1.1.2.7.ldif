@@ -1,0 +1,22 @@
+version: 1
+dn: m-oid=1.3.6.1.1.1.2.7,ou=objectClasses,cn=nis,ou=schema
+entryCSN: 20220108034249.059000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 8398b447-af30-484e-a56d-6ad4d0df16b9
+m-may: ipNetmaskNumber
+m-may: l
+m-may: description
+m-may: manager
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: cn
+m-must: ipNetworkNumber
+m-description: Abstraction of an IP network
+m-obsolete: FALSE
+m-oid: 1.3.6.1.1.1.2.7
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.845Z
+m-name: ipNetwork
+entryParentId: 37b8121f-d8e3-41ec-b207-5a3b2f05bb1e

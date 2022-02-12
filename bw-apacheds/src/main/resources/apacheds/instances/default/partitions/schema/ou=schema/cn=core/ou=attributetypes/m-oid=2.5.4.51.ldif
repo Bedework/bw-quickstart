@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=2.5.4.51,ou=attributeTypes,cn=core,ou=schema
+entryCSN: 20220108034249.133000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+creatorsname: uid=admin,ou=system
+m-collective: FALSE
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+m-singlevalue: FALSE
+entryUUID: 2f8ad12d-7e8b-4830-83ee-d49f7b5e9f4a
+m-substr: caseIgnoreSubstringsMatch
+m-equality: caseIgnoreMatch
+m-description: RFC2256: house identifier
+m-obsolete: FALSE
+m-oid: 2.5.4.51
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.556Z
+m-name: houseIdentifier
+entryParentId: 1fac5c0f-c1ff-43b9-9001-f06c0c2bd56f

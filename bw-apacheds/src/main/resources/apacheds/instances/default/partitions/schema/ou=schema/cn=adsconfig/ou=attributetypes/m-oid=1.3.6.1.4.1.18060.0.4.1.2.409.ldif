@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.409,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20220108034249.003000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+m-ordering: integerOrderingMatch
+entryUUID: c19cd94c-5481-4201-ab7b-96179cee492c
+m-equality: integerMatch
+m-description: The maximum renewable lifetime
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.409
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20220108034250.031Z
+m-name: ads-krbMaximumRenewableLifetime
+entryParentId: 34360d6a-e192-4373-ab8f-30a41315d782

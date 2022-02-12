@@ -1,0 +1,15 @@
+version: 1
+dn: m-oid=2.5.13.38,ou=matchingRules,cn=core,ou=schema
+entryCSN: 20220108034249.149000Z#000002#000#000000
+m-description: X.509 Certificate List Exact Match
+m-obsolete: FALSE
+objectclass: top
+objectclass: metaTop
+objectclass: metaMatchingRule
+m-oid: 2.5.13.38
+createTimestamp: 20220108034249.924Z
+m-name: certificateListExactMatch
+creatorsname: uid=admin,ou=system
+m-syntax: 1.3.6.1.1.15.5
+entryUUID: 769ee08e-19e9-44e6-bffa-601f82066f62
+entryParentId: 0de2abb2-2573-452f-a6a9-9b5eb864337f

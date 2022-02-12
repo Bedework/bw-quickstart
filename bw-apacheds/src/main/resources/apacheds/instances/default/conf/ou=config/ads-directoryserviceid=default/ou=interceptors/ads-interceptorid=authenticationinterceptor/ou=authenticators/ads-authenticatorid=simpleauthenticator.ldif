@@ -1,0 +1,17 @@
+dn: ads-authenticatorId=simpleauthenticator,ou=authenticators,ads-interceptorId=
+ authenticationInterceptor,ou=interceptors,ads-directoryServiceId=default,ou=con
+ fig
+entrycsn: 20220108031324.759000Z#000000#000#000000
+objectclass: top
+objectclass: ads-authenticator
+objectclass: ads-base
+objectclass: ads-authenticatorImpl
+createTimestamp: 20220108034248.126Z
+ads-authenticatorid: simpleauthenticator
+creatorsName: uid=admin,ou=system
+ads-basedn: 
+ads-authenticatorclass: org.apache.directory.server.core.authn.SimpleAuthenticat
+ or
+ads-enabled: TRUE
+entryuuid: bc4cf3b1-7154-4118-8507-545d173fcb5c
+entryParentId: fa94761b-6b8b-4df3-bb19-0a815af83a0c

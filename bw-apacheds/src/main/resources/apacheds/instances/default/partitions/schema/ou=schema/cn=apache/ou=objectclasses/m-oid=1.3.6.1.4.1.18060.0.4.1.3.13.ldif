@@ -1,0 +1,15 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.3.13,ou=objectClasses,cn=apache,ou=schema
+m-may: description
+entryCSN: 20220108034249.158000Z#000001#000#000000
+m-must: rev
+m-description: represents a Tag in change log
+m-oid: 1.3.6.1.4.1.18060.0.4.1.3.13
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034250.071Z
+m-name: tag
+creatorsname: uid=admin,ou=system
+entryUUID: 84e2a3e0-d320-4de6-9a37-23d3df8056ee
+entryParentId: 5218b470-859b-49d8-a6ab-3727039b27a9

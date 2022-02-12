@@ -1,0 +1,15 @@
+dn: ads-transportId=http,ou=transports,ads-serverId=httpServer,ou=servers,ads-di
+ rectoryServiceId=default,ou=config
+entrycsn: 20220108031324.592000Z#000000#000#000000
+ads-transportid: http
+objectclass: top
+objectclass: ads-base
+objectclass: ads-transport
+objectclass: ads-tcpTransport
+createTimestamp: 20220108034248.205Z
+ads-systemport: 8080
+ads-transportaddress: 0.0.0.0
+creatorsName: uid=admin,ou=system
+ads-enabled: TRUE
+entryuuid: ca716d04-6f39-4074-99d6-85fa73e6066a
+entryParentId: 14bacb52-30bd-490a-b7ea-5def962e3cd1

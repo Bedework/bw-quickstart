@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.42.2.27.8.1.28,ou=attributeTypes,cn=pwdpolicy,ou=schema
+entryCSN: 20220108034248.900000Z#000001#000#000000
+m-usage: DIRECTORY_OPERATION
+creatorsname: uid=admin,ou=system
+m-nousermodification: TRUE
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.24
+m-singlevalue: TRUE
+m-ordering: generalizedTimeOrderingMatch
+entryUUID: 2bc39286-89ba-47ff-be2f-e3c0c378ab3e
+m-equality: generalizedTimeMatch
+m-description: The time the password becomes disabled
+m-oid: 1.3.6.1.4.1.42.2.27.8.1.28
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20220108034249.998Z
+m-name: pwdEndTime
+entryParentId: 504a7ee1-b5e5-4868-9e9b-ea93838ea819

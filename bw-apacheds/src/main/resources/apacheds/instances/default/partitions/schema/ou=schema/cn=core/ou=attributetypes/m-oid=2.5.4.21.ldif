@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=2.5.4.21,ou=attributeTypes,cn=core,ou=schema
+entryCSN: 20220108034249.146000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.52
+m-singlevalue: FALSE
+entryUUID: 32cc9d2c-02a7-4fc9-8b6a-4d3f91a25547
+m-description: RFC2256: Telex Number
+m-obsolete: FALSE
+m-oid: 2.5.4.21
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.526Z
+m-name: telexNumber
+entryParentId: 1fac5c0f-c1ff-43b9-9001-f06c0c2bd56f

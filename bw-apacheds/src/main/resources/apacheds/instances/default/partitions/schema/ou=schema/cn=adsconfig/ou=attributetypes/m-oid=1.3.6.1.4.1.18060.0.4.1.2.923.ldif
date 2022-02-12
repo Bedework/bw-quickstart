@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.923,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20220108034249.020000Z#000001#000#000000
+creatorsName:: MC45LjIzNDIuMTkyMDAzMDAuMTAwLjEuMT0gYWRtaW4gLDIuNS40LjExPSBzeXN0Z
+ W0g
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+m-ordering: integerOrderingMatch
+entryUUID: c29563c7-3ebd-4acc-b39e-020b32de0e7c
+m-equality: integerMatch
+m-description: the time interval(in seconds) between subsequent pings to each re
+ plication provider
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.923
+createTimestamp: 20220108034249.643Z
+m-name: ads-replPingerSleep
+entryParentId: 34360d6a-e192-4373-ab8f-30a41315d782

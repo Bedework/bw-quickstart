@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.5.4.39,ou=attributeTypes,cn=core,ou=schema
+entryCSN: 20220108034249.120000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.9
+m-singlevalue: FALSE
+entryUUID: 3c06f72c-7b55-447f-9bac-5f588e73794f
+m-equality: certificateListExactMatch
+m-description: X.509 certificate revocation list
+m-obsolete: FALSE
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+m-oid: 2.5.4.39
+createTimestamp: 20220108034250.073Z
+m-name: certificateRevocationList
+entryParentId: 1fac5c0f-c1ff-43b9-9001-f06c0c2bd56f

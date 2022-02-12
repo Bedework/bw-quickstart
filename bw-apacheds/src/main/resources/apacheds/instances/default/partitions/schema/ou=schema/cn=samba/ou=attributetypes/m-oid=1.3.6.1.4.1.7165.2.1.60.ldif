@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.7165.2.1.60,ou=attributeTypes,cn=samba,ou=schema
+entryCSN: 20220108034249.263000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+entryUUID: b8420d9a-b401-4f53-a8a1-eed78b958509
+m-equality: integerMatch
+m-description: Force Users to logon for password change (default: 0 => off, 2 =>
+  on)
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.7165.2.1.60
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20220108034249.917Z
+m-name: sambaLogonToChgPwd
+entryParentId: d991772e-02db-46f9-8515-043da45cd704

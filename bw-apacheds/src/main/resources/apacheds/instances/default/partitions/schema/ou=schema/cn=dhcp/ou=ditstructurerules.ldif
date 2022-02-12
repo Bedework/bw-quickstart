@@ -1,0 +1,10 @@
+version: 1
+dn: ou=ditStructureRules,cn=dhcp,ou=schema
+entryCSN: 20220108034248.616000Z#000002#000#000000
+ou: ditstructurerules
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20220108034249.723Z
+creatorsname: uid=admin,ou=system
+entryUUID: 8a534601-ca58-4ce7-9db4-1560b3af918f
+entryParentId: d483d5a8-89ef-4be9-b80e-70c2148c2760

@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=1.3.6.1.1.1.1.0,ou=attributeTypes,cn=nis,ou=schema
+entryCSN: 20220108034249.087000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+entryUUID: c0af4f2f-26a7-405b-af23-e61d603dacd1
+m-equality: integerMatch
+m-description: An integer uniquely identifying a user in an administrative domai
+ n
+m-obsolete: FALSE
+m-oid: 1.3.6.1.1.1.1.0
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034250.031Z
+m-name: uidNumber
+entryParentId: 9a8e8baf-5afa-4ecd-9fc1-c79ec998b352

@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.4203.666.1.25,ou=attributeTypes,cn=apache,ou=schema
+entryCSN: 20220108034249.181000Z#000001#000#000000
+m-usage: DIRECTORY_OPERATION
+creatorsname: uid=admin,ou=system
+m-collective: FALSE
+m-nousermodification: TRUE
+m-syntax: 1.3.6.1.4.1.4203.666.11.2.1
+m-singlevalue: FALSE
+m-ordering: csnOrderingMatch
+entryUUID: ceecc7fd-bc52-4812-b9b6-1c70d166f1ca
+m-equality: csnMatch
+m-description: the largest committed CSN of a context
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.4203.666.1.25
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.818Z
+m-name: contextCSN
+entryParentId: 85acdeeb-f170-4ec1-ada9-4a9a10d3e63d

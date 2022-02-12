@@ -1,0 +1,13 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.0.0.1,ou=syntaxCheckers,cn=apachemeta,ou=schema
+entryCSN: 20220108034248.551000Z#000001#000#000000
+m-oid: 1.3.6.1.4.1.18060.0.4.0.0.1
+objectclass: metaSyntaxChecker
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034250.133Z
+creatorsname: uid=admin,ou=system
+entryUUID: b6f6ef86-b5b8-4622-9b19-f38dfa7124e2
+m-fqcn: org.apache.directory.api.ldap.model.schema.syntaxCheckers.ObjectClassTyp
+ eSyntaxChecker
+entryParentId: c5fc3f5e-5085-4d03-9ba6-c95778eef996

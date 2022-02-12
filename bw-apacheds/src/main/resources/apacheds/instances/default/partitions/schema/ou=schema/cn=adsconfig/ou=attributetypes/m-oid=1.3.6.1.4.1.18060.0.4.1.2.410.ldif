@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.410,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20220108034249.014000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+m-ordering: integerOrderingMatch
+entryUUID: 1a518c83-081a-473d-975d-7cf9079aff16
+m-equality: integerMatch
+m-description: The maximum ticket lifetime
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.410
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20220108034249.608Z
+m-name: ads-krbMaximumTicketLifetime
+entryParentId: 34360d6a-e192-4373-ab8f-30a41315d782

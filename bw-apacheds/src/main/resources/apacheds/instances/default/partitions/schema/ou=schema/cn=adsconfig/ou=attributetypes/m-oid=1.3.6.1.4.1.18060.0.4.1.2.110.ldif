@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.110,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20220108034248.998000Z#000002#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+m-ordering: integerOrderingMatch
+entryUUID: 5884b8ef-5617-447d-b484-0a53df6f0d9d
+m-equality: integerMatch
+m-description: Gives the maximum size of a PDU
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.110
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20220108034249.931Z
+m-name: ads-maxPDUSize
+entryParentId: 34360d6a-e192-4373-ab8f-30a41315d782

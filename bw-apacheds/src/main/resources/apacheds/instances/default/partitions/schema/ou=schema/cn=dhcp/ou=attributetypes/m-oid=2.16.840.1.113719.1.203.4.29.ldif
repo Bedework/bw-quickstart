@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.16.840.1.113719.1.203.4.29,ou=attributeTypes,cn=dhcp,ou=schema
+entryCSN: 20220108034248.667000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.26
+m-singlevalue: TRUE
+entryUUID: 359ad1ff-c529-41e1-b258-d46937762ba6
+m-equality: caseIgnoreIA5Match
+m-description: This is the hostname that was requested by the client.
+m-obsolete: FALSE
+m-oid: 2.16.840.1.113719.1.203.4.29
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034250.019Z
+m-name: dhcpRequestedHostName
+entryParentId: 08ca0a74-8378-427b-9fbe-3a6766104aac

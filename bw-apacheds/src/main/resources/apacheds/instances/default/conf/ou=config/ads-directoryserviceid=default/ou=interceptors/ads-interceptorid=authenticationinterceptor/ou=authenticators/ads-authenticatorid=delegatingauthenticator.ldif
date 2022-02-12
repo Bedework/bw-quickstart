@@ -1,0 +1,17 @@
+dn: ads-authenticatorId=delegatingauthenticator,ou=authenticators,ads-intercepto
+ rId=authenticationInterceptor,ou=interceptors,ads-directoryServiceId=default,ou
+ =config
+entrycsn: 20220108031324.730000Z#000000#000#000000
+objectclass: top
+objectclass: ads-authenticator
+objectclass: ads-base
+objectclass: ads-authenticatorImpl
+createTimestamp: 20220108034248.124Z
+ads-authenticatorid: delegatingauthenticator
+creatorsName: uid=admin,ou=system
+ads-basedn: 
+ads-authenticatorclass: org.apache.directory.server.core.authn.DelegatingAuthent
+ icator
+ads-enabled: FALSE
+entryuuid: bcb44b56-9f63-46fe-8c36-060fc6fcfa33
+entryParentId: fa94761b-6b8b-4df3-bb19-0a815af83a0c

@@ -1,0 +1,14 @@
+dn: ads-indexAttributeId=apacheOneAlias,ou=indexes,ads-partitionId=bedework,ou=p
+ artitions,ads-directoryServiceId=default,ou=config
+ads-indexhasreverse: FALSE
+entrycsn: 20220108031324.956000Z#000000#000#000000
+objectclass: ads-index
+objectclass: top
+objectclass: ads-jdbmIndex
+objectclass: ads-base
+createTimestamp: 20220108034248.168Z
+creatorsName: uid=admin,ou=system
+ads-indexattributeid: apacheOneAlias
+ads-enabled: TRUE
+entryuuid: d412101a-2362-4450-9740-ed149b7756d7
+entryParentId: 39fd203e-101b-4ea2-bfc6-560c6d4b0ee5

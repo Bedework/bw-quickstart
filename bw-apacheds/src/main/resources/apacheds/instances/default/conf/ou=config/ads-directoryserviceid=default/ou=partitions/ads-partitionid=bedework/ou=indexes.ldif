@@ -1,0 +1,10 @@
+dn: ou=indexes,ads-partitionId=bedework,ou=partitions,ads-directoryServiceId=def
+ ault,ou=config
+entrycsn: 20220108031324.936000Z#000000#000#000000
+ou: indexes
+objectclass: top
+objectclass: organizationalUnit
+createTimestamp: 20220108034248.159Z
+creatorsName: uid=admin,ou=system
+entryuuid: 39fd203e-101b-4ea2-bfc6-560c6d4b0ee5
+entryParentId: 2022a5cc-424e-4407-9740-4cc11b1d94c6

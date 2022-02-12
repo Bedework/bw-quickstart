@@ -1,0 +1,14 @@
+version: 1
+dn: cn=autofs,ou=schema
+entryCSN: 20220108034248.443000Z#000001#000#000000
+cn: autofs
+objectclass: metaSchema
+objectclass: top
+createTimestamp: 20220108034249.939Z
+m-dependencies: system
+m-dependencies: core
+m-dependencies: cosine
+creatorsname: uid=admin,ou=system
+m-disabled: TRUE
+entryUUID: d6aa77fc-339b-4635-b70c-558f46ebd7c8
+entryParentId: ff8f3a16-246a-488c-a5a7-0b4dbce9f7c0

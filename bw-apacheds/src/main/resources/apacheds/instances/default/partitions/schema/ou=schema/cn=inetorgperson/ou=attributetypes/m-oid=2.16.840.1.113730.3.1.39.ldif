@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=2.16.840.1.113730.3.1.39,ou=attributeTypes,cn=inetorgperson,ou=schema
+entryCSN: 20220108034249.054000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+creatorsname: uid=admin,ou=system
+m-collective: FALSE
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+m-singlevalue: TRUE
+entryUUID: f5f247a9-3728-4a6e-9370-379debd512fc
+m-substr: caseIgnoreSubstringsMatch
+m-equality: caseIgnoreMatch
+m-description: RFC2798: preferred written or spoken language for a person
+m-obsolete: FALSE
+m-oid: 2.16.840.1.113730.3.1.39
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034250.068Z
+m-name: preferredLanguage
+entryParentId: 64e0f347-e67a-4289-9b2e-bb79aec5aca4

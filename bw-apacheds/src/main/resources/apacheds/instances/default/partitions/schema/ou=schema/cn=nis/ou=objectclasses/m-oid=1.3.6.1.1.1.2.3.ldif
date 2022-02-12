@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.1.1.2.3,ou=objectClasses,cn=nis,ou=schema
+entryCSN: 20220108034249.064000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 4f7b4303-e380-4f0a-b29c-f4811a2a2cd2
+m-may: description
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: cn
+m-must: ipServicePort
+m-must: ipServiceProtocol
+m-description: Abstraction an Internet Protocol service
+m-obsolete: FALSE
+m-oid: 1.3.6.1.1.1.2.3
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.673Z
+m-name: ipService
+entryParentId: 37b8121f-d8e3-41ec-b207-5a3b2f05bb1e

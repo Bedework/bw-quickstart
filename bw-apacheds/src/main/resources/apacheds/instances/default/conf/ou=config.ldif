@@ -1,0 +1,9 @@
+dn: ou=config
+entrycsn: 20220108031324.485000Z#000000#000#000000
+ou: config
+objectclass: top
+objectclass: organizationalUnit
+createTimestamp: 20220108034248.095Z
+creatorsName: uid=admin,ou=system
+entryuuid: b7234f74-7dce-4c8d-9b80-9a6099479824
+entryParentId: 00000000-0000-0000-0000-000000000000

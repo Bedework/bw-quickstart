@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.5.4.23,ou=attributeTypes,cn=core,ou=schema
+entryCSN: 20220108034249.122000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.22
+m-singlevalue: FALSE
+entryUUID: ceec949f-4297-4427-a0a5-8ee5d54d7aed
+m-description: RFC2256: Facsimile (Fax) Telephone Number
+m-obsolete: FALSE
+m-oid: 2.5.4.23
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034250.053Z
+m-name: facsimileTelephoneNumber
+m-name: fax
+entryParentId: 1fac5c0f-c1ff-43b9-9001-f06c0c2bd56f

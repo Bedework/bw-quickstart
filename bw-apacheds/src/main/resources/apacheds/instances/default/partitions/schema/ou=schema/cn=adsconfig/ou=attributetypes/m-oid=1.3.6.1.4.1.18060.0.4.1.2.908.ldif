@@ -1,0 +1,16 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.908,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20220108034249.029000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+entryUUID: ab6a5759-ba1c-45e2-a911-013ae2a7830c
+m-equality: integerMatch
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.908
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20220108034250.131Z
+m-name: ads-pwdGraceAuthNLimit
+entryParentId: 34360d6a-e192-4373-ab8f-30a41315d782

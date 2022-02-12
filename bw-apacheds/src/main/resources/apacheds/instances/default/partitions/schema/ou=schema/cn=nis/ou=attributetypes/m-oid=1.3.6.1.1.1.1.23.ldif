@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.1.1.1.23,ou=attributeTypes,cn=nis,ou=schema
+entryCSN: 20220108034249.070000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.1.1.0.1
+m-singlevalue: FALSE
+entryUUID: 02e6fb34-69d6-4293-9495-6b9e78a04a3f
+m-description: rpc.bootparamd parameter
+m-obsolete: FALSE
+m-oid: 1.3.6.1.1.1.1.23
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034250.044Z
+m-name: bootParameter
+entryParentId: 9a8e8baf-5afa-4ecd-9fc1-c79ec998b352

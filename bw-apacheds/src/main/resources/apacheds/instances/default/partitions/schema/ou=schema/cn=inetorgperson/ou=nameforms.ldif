@@ -1,0 +1,10 @@
+version: 1
+dn: ou=nameForms,cn=inetorgperson,ou=schema
+entryCSN: 20220108034249.046000Z#000002#000#000000
+ou: nameforms
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20220108034249.774Z
+creatorsname: uid=admin,ou=system
+entryUUID: 52cf9a80-5aa2-4daa-999a-195d94e3970f
+entryParentId: d74a0ec1-7156-4a2f-9441-c102332399db

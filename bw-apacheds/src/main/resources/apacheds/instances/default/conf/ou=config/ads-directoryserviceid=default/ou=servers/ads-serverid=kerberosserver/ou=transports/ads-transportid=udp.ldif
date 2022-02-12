@@ -1,0 +1,16 @@
+dn: ads-transportId=udp,ou=transports,ads-serverId=kerberosServer,ou=servers,ads
+ -directoryServiceId=default,ou=config
+entrycsn: 20220108031324.492000Z#000000#000#000000
+ads-transportid: udp
+objectclass: ads-udpTransport
+objectclass: top
+objectclass: ads-base
+objectclass: ads-transport
+createTimestamp: 20220108034248.211Z
+ads-systemport: 60088
+ads-transportaddress: 0.0.0.0
+creatorsName: uid=admin,ou=system
+ads-enabled: TRUE
+entryuuid: f19a4ae4-6a4b-4b9d-9fcb-8ec030fe1fa5
+ads-transportnbthreads: 4
+entryParentId: 9f1762d1-1527-48cb-9c76-e0feadcd5b2b

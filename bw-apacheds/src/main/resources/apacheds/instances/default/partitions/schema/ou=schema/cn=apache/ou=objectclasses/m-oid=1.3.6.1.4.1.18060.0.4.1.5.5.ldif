@@ -1,0 +1,16 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.5.5,ou=objectClasses,cn=apache,ou=schema
+entryCSN: 20220108034249.163000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 0481bfb2-b0ba-47a6-9790-79eee173cf24
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: storedProcUnit
+m-must: javaByteCode
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.1.5.5
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.808Z
+m-name: javaStoredProcUnit
+entryParentId: 5218b470-859b-49d8-a6ab-3727039b27a9

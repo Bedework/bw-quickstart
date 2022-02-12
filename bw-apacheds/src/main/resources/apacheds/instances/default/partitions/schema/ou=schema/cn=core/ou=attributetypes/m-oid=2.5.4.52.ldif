@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.5.4.52,ou=attributeTypes,cn=core,ou=schema
+entryCSN: 20220108034249.130000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.49
+m-singlevalue: FALSE
+entryUUID: 7f85ea96-3ccf-4bc8-bec2-a855de99de38
+m-equality: algorithmIdentifierMatch
+m-description: X.509 supported algorithms
+m-obsolete: FALSE
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+m-oid: 2.5.4.52
+createTimestamp: 20220108034249.474Z
+m-name: supportedAlgorithms
+entryParentId: 1fac5c0f-c1ff-43b9-9001-f06c0c2bd56f

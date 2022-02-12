@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.42.2.27.4.2.5,ou=objectClasses,cn=java,ou=schema
+entryCSN: 20220108034248.696000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 9d62d0c5-f994-4f1d-b1ca-d9a38b48f6ab
+m-typeobjectclass: AUXILIARY
+m-supobjectclass: javaObject
+m-must: javaSerializedData
+m-description: Java serialized object
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.42.2.27.4.2.5
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.971Z
+m-name: javaSerializedObject
+entryParentId: dc944372-1b5f-4d11-9230-c5ebd423b7ca

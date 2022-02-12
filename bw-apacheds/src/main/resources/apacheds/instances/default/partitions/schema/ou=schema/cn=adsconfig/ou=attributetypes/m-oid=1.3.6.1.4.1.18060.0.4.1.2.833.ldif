@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.833,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20220108034249.001000Z#000002#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.7
+m-singlevalue: TRUE
+entryUUID: aee1956c-eabd-44a2-98a8-7c4667456662
+m-equality: booleanMatch
+m-description: flag to indicate the use of TLS
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.833
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.852Z
+m-name: ads-replUseTls
+entryParentId: 34360d6a-e192-4373-ab8f-30a41315d782

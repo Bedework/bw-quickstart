@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.42.2.27.8.1.23,ou=attributeTypes,cn=pwdpolicy,ou=schema
+entryCSN: 20220108034248.905000Z#000002#000#000000
+m-usage: DIRECTORY_OPERATION
+creatorsname: uid=admin,ou=system
+m-nousermodification: TRUE
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.12
+m-singlevalue: TRUE
+entryUUID: 55a0a0b7-6d77-4109-82cf-84f50b7ccb65
+m-equality: distinguishedNameMatch
+m-description: The pwdPolicy subentry in effect for this object
+m-oid: 1.3.6.1.4.1.42.2.27.8.1.23
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20220108034249.753Z
+m-name: pwdPolicySubentry
+entryParentId: 504a7ee1-b5e5-4868-9e9b-ea93838ea819

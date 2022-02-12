@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.0.2.36,ou=attributeTypes,cn=apachemeta,ou=schema
+entryCSN: 20220108034248.512000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.7
+m-singlevalue: TRUE
+entryUUID: fa036b98-ace7-47aa-aa9a-34f7ed9d14db
+m-equality: booleanMatch
+m-description: Tells if the schema element is read-only or not.
+m-obsolete: FALSE
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+m-oid: 1.3.6.1.4.1.18060.0.4.0.2.36
+createTimestamp: 20220108034249.574Z
+m-name: x-read-only
+entryParentId: e4bbb9f4-3350-48ca-8d99-575cdc54f81b

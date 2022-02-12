@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.18,ou=attributeTypes,cn=apache,ou=schema
+entryCSN: 20220108034249.193000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.26
+m-singlevalue: TRUE
+entryUUID: 91eb3917-590d-4779-8408-cff1b6dc48cb
+m-equality: caseIgnoreIA5Match
+m-description: A string up to 256 characters in length
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.18
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.536Z
+m-name: apacheCatalogEntryBaseDn
+entryParentId: 85acdeeb-f170-4ec1-ada9-4a9a10d3e63d

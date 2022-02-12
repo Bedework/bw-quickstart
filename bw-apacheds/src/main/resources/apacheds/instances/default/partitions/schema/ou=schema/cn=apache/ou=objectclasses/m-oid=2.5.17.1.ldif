@@ -1,0 +1,15 @@
+version: 1
+dn: m-oid=2.5.17.1,ou=objectClasses,cn=apache,ou=schema
+m-typeobjectclass: AUXILIARY
+entryCSN: 20220108034249.162000Z#000000#000#000000
+m-must: prescriptiveACI
+m-obsolete: FALSE
+m-oid: 2.5.17.1
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034249.482Z
+m-name: accessControlSubentry
+creatorsname: uid=admin,ou=system
+entryUUID: 62f57346-46d4-4fbe-88c1-604a5d949fec
+entryParentId: 5218b470-859b-49d8-a6ab-3727039b27a9

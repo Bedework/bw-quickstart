@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.44,ou=attributeTypes,cn=apache,ou=schema
+entryCSN: 20220108034249.188000Z#000000#000#000000
+m-usage: DSA_OPERATION
+creatorsname: uid=admin,ou=system
+m-collective: FALSE
+m-nousermodification: TRUE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: FALSE
+m-ordering: integerOrderingMatch
+entryUUID: b3195458-1bc0-4df1-a227-2cde1f423076
+m-equality: integerMatch
+m-description: Revision numbers used in change log
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.44
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20220108034250.102Z
+m-name: revisions
+entryParentId: 85acdeeb-f170-4ec1-ada9-4a9a10d3e63d

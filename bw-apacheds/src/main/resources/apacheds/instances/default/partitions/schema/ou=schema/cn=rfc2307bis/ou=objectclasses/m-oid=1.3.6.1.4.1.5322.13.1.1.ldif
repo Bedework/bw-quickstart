@@ -1,0 +1,15 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.5322.13.1.1,ou=objectClasses,cn=rfc2307bis,ou=schema
+m-may: cn
+entryCSN: 20220108034248.878000Z#000001#000#000000
+m-supobjectclass: top
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+m-oid: 1.3.6.1.4.1.5322.13.1.1
+createTimestamp: 20220108034249.899Z
+m-name: namedObject
+creatorsName:: MC45LjIzNDIuMTkyMDAzMDAuMTAwLjEuMT0gYWRtaW4gLDIuNS40LjExPSBzeXN0Z
+ W0g
+entryUUID: e83a1b61-bf11-4f66-8424-60c6f765f5b0
+entryParentId: 81518db9-0b4a-4afd-8b03-eae2161e789a

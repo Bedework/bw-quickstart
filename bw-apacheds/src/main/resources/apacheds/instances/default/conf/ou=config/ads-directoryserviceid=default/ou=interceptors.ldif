@@ -1,0 +1,9 @@
+dn: ou=interceptors,ads-directoryServiceId=default,ou=config
+entrycsn: 20220108031324.605000Z#000000#000#000000
+ou: interceptors
+objectclass: top
+objectclass: organizationalUnit
+createTimestamp: 20220108034248.114Z
+creatorsName: uid=admin,ou=system
+entryuuid: e8ac31ff-0933-4673-a8e4-ad7cb463531a
+entryParentId: a9e9d8de-ec2f-4d10-912b-1b36f0b4d1cc

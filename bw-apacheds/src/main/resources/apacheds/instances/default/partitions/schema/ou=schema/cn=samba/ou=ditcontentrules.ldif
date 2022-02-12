@@ -1,0 +1,10 @@
+version: 1
+dn: ou=ditContentRules,cn=samba,ou=schema
+entryCSN: 20220108034249.219000Z#000003#000#000000
+ou: ditcontentrules
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20220108034249.664Z
+creatorsname: uid=admin,ou=system
+entryUUID: 89df9969-1eab-4d8c-abca-b7f8dce075ff
+entryParentId: cd7f439f-5213-4166-a1f6-6126fd31b326

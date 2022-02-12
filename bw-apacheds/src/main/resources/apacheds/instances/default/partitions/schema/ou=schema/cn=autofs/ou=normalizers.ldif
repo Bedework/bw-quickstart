@@ -1,0 +1,10 @@
+version: 1
+dn: ou=normalizers,cn=autofs,ou=schema
+entryCSN: 20220108034248.556000Z#000001#000#000000
+ou: normalizers
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20220108034250.051Z
+creatorsname: uid=admin,ou=system
+entryUUID: 862a7ce3-197b-4c34-8e60-50835cabc19e
+entryParentId: d6aa77fc-339b-4635-b70c-558f46ebd7c8

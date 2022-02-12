@@ -1,0 +1,15 @@
+dn: ads-interceptorId=aciAuthorizationInterceptor,ou=interceptors,ads-directoryS
+ erviceId=default,ou=config
+entrycsn: 20220108031324.653000Z#000000#000#000000
+objectclass: ads-interceptor
+objectclass: top
+objectclass: ads-base
+createTimestamp: 20220108034248.115Z
+creatorsName: uid=admin,ou=system
+ads-enabled: TRUE
+entryuuid: 91b8727f-fd92-4fc6-b90b-f6e2ab98339e
+ads-interceptorclassname: org.apache.directory.server.core.authz.AciAuthorizatio
+ nInterceptor
+ads-interceptororder: 4
+ads-interceptorid: aciAuthorizationInterceptor
+entryParentId: e8ac31ff-0933-4673-a8e4-ad7cb463531a
