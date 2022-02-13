@@ -2,16 +2,14 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>org.bedework</groupId>
-    <artifactId>bedework-parent</artifactId>
-    <version>7</version>
+    <groupId>org.bedework.deploy</groupId>
+    <artifactId>bw-quickstart</artifactId>
+    <version>4.0.1-SNAPSHOT</version>
   </parent>
 
-  <groupId>org.bedework.deploy</groupId>
   <artifactId>bw-oschdata</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
-
   <packaging>pom</packaging>
+
   <name>Bedework: Initial OpenSearch data for quickstart</name>
   <description>Package Initial OpenSearch quickstart data for wildfly feature pack build</description>
   <url>https://github.com/Bedework/bw-oschdata</url>
