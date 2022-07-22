@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.8.4
+Built-By: mike
+Build-Jdk: 11.0.6
+Specification-Title: hawtio-wildfly
+Specification-Version: 2.15
+Specification-Vendor: JBoss by Red Hat
+Dependencies: org.bedework.hawtio
+Implementation-Title: hawtio-wildfly
+Implementation-Version: 2.15.0
+Implementation-Vendor-Id: io.hawt
+Implementation-Vendor: JBoss by Red Hat
+Implementation-URL: http://hawt.io/platforms/hawtio-wildfly/
+Java-Vendor: AdoptOpenJDK
+Java-Version: 11.0.6
+Os-Arch: x86_64
+Os-Name: Mac OS X
+Os-Version: 10.16
+Scm-Connection: scm:git:git@github.com:hawtio/hawtio.git/platforms/hawti
+ o-wildfly
+Scm-Revision: UNKNOWN
+Scm-Url: git@github.com:hawtio/hawtio.git/platforms/hawtio-wildfly
+

@@ -11,8 +11,7 @@
   <packaging>pom</packaging>
 
   <name>Bedework: Configured Apacheds</name>
-  <description>Package configured apacheds for wildflyfeature pack install</description>
-  <url>https://github.com/Bedework/bw-apacheds</url>
+  <description>Package configured apacheds for wildfly feature pack install</description>
 
   <build>
     <plugins>
