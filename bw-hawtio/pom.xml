@@ -12,6 +12,7 @@
 
   <artifactId>bw-hawtio</artifactId>
   <packaging>war</packaging>
+  <name>Bedework quickstart: hawtio console</name>
 
   <properties>
     <org.bedework.war.dependency>org.bedework.hawtio</org.bedework.war.dependency>
