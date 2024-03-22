@@ -38,3 +38,6 @@ For full details, see [Sonatype's documentation for using Maven to publish relea
 * Update library versions
 * Add missing table to CalDb
 * Upgrade to opensearch 2.1.0
+
+#### 4.0.3
+* Missing name in hawtio pom
