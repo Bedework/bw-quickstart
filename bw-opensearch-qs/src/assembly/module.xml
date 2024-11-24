@@ -10,7 +10,7 @@
   <baseDirectory>opensearch</baseDirectory>
   <fileSets>
     <fileSet>
-      <directory>${project.basedir}/src/main/resources/opensearch-2.1.0</directory>
+      <directory>${project.basedir}/src/main/resources/opensearch-2.18.0</directory>
       <outputDirectory/>
     </fileSet>
   </fileSets>
