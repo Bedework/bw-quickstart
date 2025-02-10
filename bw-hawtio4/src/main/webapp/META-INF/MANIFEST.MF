@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Created-By: Maven WAR Plugin 3.4.0
+Build-Jdk-Spec: 17
+Specification-Title: hawtio-default
+Specification-Version: 4.3
+Specification-Vendor: JBoss by Red Hat
+Dependencies: org.bedework.hawtio
+Implementation-Title: hawtio-default
+Implementation-Version: 4.3.0
+Implementation-Vendor: JBoss by Red Hat
+Implementation-URL: https://hawt.io/
+Java-Vendor: Eclipse Adoptium
+Java-Version: 17.0.14
+Os-Arch: aarch64
+Os-Name: Mac OS X
+Os-Version: 15.3
+Scm-Connection: scm:git:git@github.com:hawtio/hawtio.git
+Scm-Revision: 6b67fb4cf508836657597d47b0f5f76be6303e0e
+Scm-Url: git@github.com:hawtio/hawtio.git
+

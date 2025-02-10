@@ -24,5 +24,6 @@
     <module>bw-oschdata</module>
     <module>bw-qsbedework</module>
     <module>bw-hawtio</module>
+    <module>bw-hawtio4</module>
   </modules>
 </project>

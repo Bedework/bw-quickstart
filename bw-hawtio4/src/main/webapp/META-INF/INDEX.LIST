@@ -1,0 +1,26 @@
+JarIndex-Version: 1.0
+
+hawtio-default-4.3.0.war
+META-INF
+META-INF/maven
+META-INF/maven/io.hawt
+META-INF/maven/io.hawt/hawtio-war
+WEB-INF
+WEB-INF/classes
+WEB-INF/classes/io
+WEB-INF/classes/io/hawt
+WEB-INF/lib
+img
+static
+static/js
+static/media
+editor.worker.js
+favicon.ico
+hawtconfig.json
+html.worker.js
+html.worker.js.LICENSE.txt
+index.html
+json.worker.js
+json.worker.js.LICENSE.txt
+robots.txt
+
