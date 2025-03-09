@@ -23,7 +23,6 @@
     <module>bw-opensearch-GeoLite2-City</module>
     <module>bw-oschdata</module>
     <module>bw-qsbedework</module>
-    <module>bw-hawtio</module>
     <module>bw-hawtio4</module>
   </modules>
 </project>

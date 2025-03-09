@@ -1,6 +1,0 @@
-<jboss-web>
-  <security-domain>java:/jaas/jolokia</security-domain>
-
-  <context-root>/hawtio</context-root>
-</jboss-web>
-
