@@ -12,6 +12,7 @@
 
   <artifactId>bw-opensearch-GeoLite2-City</artifactId>
   <packaging>pom</packaging>
+  <name>Bedework quickstart: GeoLite2 city data</name>
 
   <build>
     <plugins>

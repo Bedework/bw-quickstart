@@ -12,6 +12,7 @@
 
   <artifactId>bw-calendar-data-h2</artifactId>
   <packaging>pom</packaging>
+  <name>Bedework quickstart: h2 calendar data</name>
 
   <build>
     <plugins>
