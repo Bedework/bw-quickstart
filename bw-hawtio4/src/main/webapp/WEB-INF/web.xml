@@ -245,6 +245,24 @@
     <servlet-name>preset-connections</servlet-name>
     <url-pattern>/preset-connections</url-pattern>
   </servlet-mapping>
+  <login-config>
+    <auth-method>BASIC</auth-method>
+    <realm-name>jolokia</realm-name>
+  </login-config>
+
+  <security-constraint>
+    <web-resource-collection>
+      <web-resource-name>Jolokia-Agent Access</web-resource-name>
+      <url-pattern>/*</url-pattern>
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>jolokia</role-name>
+    </auth-constraint>
+  </security-constraint>
+
+  <security-role>
+    <role-name>jolokia</role-name>
+  </security-role>
 
   <mime-mapping>
     <extension>woff</extension>
